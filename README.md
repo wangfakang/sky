@@ -13,6 +13,8 @@ Table of Contents
     * [C++](#c++)
     * [Golang](#golang)
     * [Lua](#lua)
+    * [Consul](#consul)
+    * [Linux](#linux)
 * [Thx](#thx)
 * [Communite](#communite)
 * [Author](#author)
@@ -25,7 +27,7 @@ Article Category
 
 Nginx
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
+* [NGINX惊群解析](http://wangfakang.github.io/sky0)
 * [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
 * [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
 * [NGX_HTTP_UPSTREAM_CHECK_MODULE模块解析基于agentzh](http://wangfakang.github.io/sky3)
@@ -65,6 +67,21 @@ Lua
 
 [Back to TOC](#table-of-contents)
 
+Consul
+-------------
+* [consul简单解析](http://wangfakang.github.io/consul0)
+
+[Back to TOC](#table-of-contents)
+
+
+Linux
+-------------
+* [nginx惊群解析](http://wangfakang.github.io/sky0)
+* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
+* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+
+[Back to TOC](#table-of-contents)
+
 
 
 Communite  
@@ -76,11 +93,16 @@ Communite
 * QQ: 1031379296
 * weibo: [@王发康](http://weibo.com/u/2786211992/home)
 
+[Back to TOC](#table-of-contents)
+
+
 
 Thx
 ====
 
 * chunshengsterATgmail.com
+
+[Back to TOC](#table-of-contents)
 
 
 Author
@@ -88,3 +110,6 @@ Author
 * Linux\nginx\golang\c\c++爱好者
 * 欢迎一起交流  一起学习# 
 * Others say good and Others good
+
+[Back to TOC](#table-of-contents)
+
