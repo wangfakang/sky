@@ -28,6 +28,8 @@ Nginx
 * [nginx惊群解析](http://wangfakang.github.io/sky0)
 * [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
 * [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [NGX_HTTP_UPSTREAM_CHECK_MODULE模块解析基于agentzh](http://wangfakang.github.io/sky3)
+* [NGX_HTTP_ACCOUNTING_MODULE模块解析](http://wangfakang.github.io/sky4)
 
 [Back to TOC](#table-of-contents)
 
