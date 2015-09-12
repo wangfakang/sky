@@ -34,6 +34,7 @@ Nginx
 * [NGX_HTTP_UPSTREAM_CHECK_MODULE模块解析基于agentzh](http://wangfakang.github.io/sky3)
 * [NGX_HTTP_ACCOUNTING_MODULE模块解析](http://wangfakang.github.io/sky4)
 * [proxy_pass后面更跟量与常量的剖析](http://wangfakang.github.io/sky5)
+* [Analysis load balancing algorithm的剖析](http://wangfakang.github.io/sky6)
 
 [Back to TOC](#table-of-contents)
 
