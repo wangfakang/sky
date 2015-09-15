@@ -16,6 +16,8 @@ Table of Contents
     * [Lua](#lua)
     * [Consul](#consul)
     * [Linux](#linux)
+    * [Python](#python)
+    * [Kernel](#kernel)
 * [Thx](#thx)
 * [Communite](#communite)
 * [Author](#author)
@@ -35,6 +37,7 @@ Nginx
 * [NGX_HTTP_ACCOUNTING_MODULE模块解析](http://wangfakang.github.io/sky4)
 * [proxy_pass后面更跟量与常量的剖析](http://wangfakang.github.io/sky5)
 * [Analysis load balancing algorithm的剖析](http://wangfakang.github.io/sky6)
+* [Nginx配置指令user的剖析以及踩到的坑](http://wangfakang.github.io/sky7)
 
 [Back to TOC](#table-of-contents)
 
@@ -87,6 +90,24 @@ Consul
 
 
 Linux
+-------------
+* [nginx惊群解析](http://wangfakang.github.io/sky0)
+* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
+* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+
+[Back to TOC](#table-of-contents)
+
+
+Python
+-------------
+* [nginx惊群解析](http://wangfakang.github.io/sky0)
+* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
+* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+
+[Back to TOC](#table-of-contents)
+
+
+Kernel
 -------------
 * [nginx惊群解析](http://wangfakang.github.io/sky0)
 * [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
