@@ -84,7 +84,9 @@ Lua
 
 Consul
 -------------
-* [consul简单解析](http://wangfakang.github.io/consul0)
+* [Consul简单解析](http://wangfakang.github.io/consul0)
+* [Consul集群搭建以及服务发现的简单整理](http://wangfakang.github.io/consul1)
+
 
 [Back to TOC](#table-of-contents)
 
