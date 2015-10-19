@@ -96,6 +96,7 @@ Consul
 * [Consul简单解析](http://wangfakang.github.io/consul0)
 * [Consul集群搭建以及服务发现的简单整理](http://wangfakang.github.io/consul1)
 * [Tengine结合Consul的服务发现](http://wangfakang.github.io/consul2)
+* [Consul+docker+consul_template+registrator动态管理nginx的upstream](http://wangfakang.github.io/consul3)
 
 
 [Back to TOC](#table-of-contents)
