@@ -16,6 +16,7 @@ Table of Contents
     * [Network](#network)
     * [Lua](#lua)
     * [Consul](#consul)
+    * [Kubernetes](#kubernets)
     * [Linux](#linux)
     * [Python](#python)
     * [Kernel](#kernel)
@@ -69,8 +70,8 @@ Golang
 Docker
 -------------
 * [Docker的简单使用](http://wangfakang.github.io/docker0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [如何进入Docker attatch exec](http://wangfakang.github.io/docker1)
+* [Docker的网络相关设置](http://wangfakang.github.io/docker2)
 
 [Back to TOC](#table-of-contents)
 
@@ -92,6 +93,17 @@ Lua
 [Back to TOC](#table-of-contents)
 
 Consul
+-------------
+* [Consul简单解析](http://wangfakang.github.io/consul0)
+* [Consul集群搭建以及服务发现的简单整理](http://wangfakang.github.io/consul1)
+* [Tengine结合Consul的服务发现](http://wangfakang.github.io/consul2)
+* [Consul+docker+consul_template+registrator动态管理nginx的upstream](http://wangfakang.github.io/consul3)
+
+
+[Back to TOC](#table-of-contents)
+
+
+Kubernetes
 -------------
 * [Consul简单解析](http://wangfakang.github.io/consul0)
 * [Consul集群搭建以及服务发现的简单整理](http://wangfakang.github.io/consul1)
