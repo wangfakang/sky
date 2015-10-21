@@ -10,7 +10,7 @@ Table of Contents
 * [Article Category](#article-category)
     * [Nginx](#nginx)
     * [C](#c)
-    * [C++](#c++)
+    * [Cplus](#cplus)
     * [Golang](#golang)
     * [Docker](#docker)
     * [Network](#network)
@@ -51,7 +51,7 @@ C
 
 [Back to TOC](#table-of-contents)
 
-C++
+Cplus
 -------------
 * [C++ STL相关容器算法解析](http://wangfakang.github.io/cplus0)
 * [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
