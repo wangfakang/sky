@@ -74,6 +74,7 @@ Docker
 * [Docker的网络相关设置](http://wangfakang.github.io/docker2)
 * [Docker的CMD.RUN.ENTRYPOINT的区别](http://wangfakang.github.io/docker3)
 * [Registrator的源码分析](http://wangfakang.github.io/docker4)
+* [Docker容器启动多个服务--supervisor](http://wangfakang.github.io/docker5)
 
 [Back to TOC](#table-of-contents)
 
