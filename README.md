@@ -78,6 +78,7 @@ Docker
 * [Docker相关CMD再次剖析](http://wangfakang.github.io/docker7)
 * [Docker源码剖析](http://wangfakang.github.io/docker6)
 * [Docker宏观介绍以及namespace+cgroup](http://wangfakang.github.io/docker8)
+* [Docker的monitor简单原理](http://wangfakang.github.io/docker9)
 
 [Back to TOC](#table-of-contents)
 
