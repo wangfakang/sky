@@ -54,8 +54,6 @@ C
 Cplus
 -------------
 * [C++ STL相关容器算法解析](http://wangfakang.github.io/cplus0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
 
 [Back to TOC](#table-of-contents)
 
@@ -85,6 +83,7 @@ Docker
 Network
 -------------
 * [从浏览器输入url到服务器响应的整个过程](http://wangfakang.github.io/net0)
+* [Tcp三次握手四次挥手以及time_wait状态分析](http://wangfakang.github.io/net1)
 
 [Back to TOC](#table-of-contents)
 
