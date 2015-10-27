@@ -84,9 +84,7 @@ Docker
 
 Network
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [从浏览器输入url到服务器响应的整个过程](http://wangfakang.github.io/net0)
 
 [Back to TOC](#table-of-contents)
 
