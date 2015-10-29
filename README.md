@@ -48,6 +48,7 @@ C
 -------------
 * [C的一些陷阱](http://wangfakang.github.io/c0)
 * [C Function pointer](http://wangfakang.github.io/c1)
+* [简单的代码反应一个思维人的思维模式](http://wangfakang.github.io/c2)
 
 [Back to TOC](#table-of-contents)
 
