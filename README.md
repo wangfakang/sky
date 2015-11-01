@@ -1,7 +1,7 @@
 Name
 ====
 ## 这是一个相互学习的地方, 欢迎大家多多指导　:kissing_heart:　   　
-## It's a OpenStudy community, wellcome pull request :kissing_heart:       
+## It's a OpenStudy community, wellcome pull request  :kissing_heart:       
 
 
 Table of Contents
@@ -94,9 +94,7 @@ Network
 
 Lua
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [Lua的简单学习](http://wangfakang.github.io/lua0)
 
 [Back to TOC](#table-of-contents)
 
