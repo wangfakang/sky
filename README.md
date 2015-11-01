@@ -57,6 +57,7 @@ Cplus
 -------------
 * [C++ STL相关容器算法解析](http://wangfakang.github.io/cplus0)
 * [C++ 类中默认的5个函数的解析](http://wangfakang.github.io/cplus1)
+* [C++ 中重载,覆盖,隐藏的解析](http://wangfakang.github.io/cplus2)
 
 [Back to TOC](#table-of-contents)
 
