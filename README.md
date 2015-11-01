@@ -95,6 +95,7 @@ Network
 Lua
 -------------
 * [Lua的简单学习](http://wangfakang.github.io/lua0)
+* [Lua与C的交互](http://wangfakang.github.io/lua1)
 
 [Back to TOC](#table-of-contents)
 
