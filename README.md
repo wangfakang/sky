@@ -63,9 +63,7 @@ Cplus
 
 Golang
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [Go简单学习](http://wangfakang.github.io/go0)
 
 [Back to TOC](#table-of-contents)
 
