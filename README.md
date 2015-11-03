@@ -42,6 +42,7 @@ Nginx
 * [Analysis load balancing algorithm的剖析](http://wangfakang.github.io/sky6)
 * [Nginx配置指令user的剖析以及踩到的坑](http://wangfakang.github.io/sky7)
 * [Nginx负载均衡之least_conn解析](http://wangfakang.github.io/sky8)
+* [Nginx之balancer_by_lua模块的解析](http://wangfakang.github.io/sky9)
 
 [Back to TOC](#table-of-contents)
 
