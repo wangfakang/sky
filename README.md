@@ -64,6 +64,7 @@ Cplus
 Golang
 -------------
 * [Go简单学习](http://wangfakang.github.io/go0)
+* [Go中的协程以及协程之间的通信](http://wangfakang.github.io/go1)
 
 [Back to TOC](#table-of-contents)
 
