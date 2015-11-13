@@ -128,9 +128,7 @@ Kubernetes
 
 Linux
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [Linux的I/O复用技术select,poll,epoll的讲解](http://wangfakang.github.io/linux0)
 
 [Back to TOC](#table-of-contents)
 
