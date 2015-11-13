@@ -17,7 +17,7 @@ Table of Contents
     * [Network](#network)
     * [Lua](#lua)
     * [Consul](#consul)
-    * [Kubernetes](#kubernets)
+    * [Kubernetes](#kubernetes)
     * [Linux](#linux)
     * [Python](#python)
     * [Kernel](#kernel)
