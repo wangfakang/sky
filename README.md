@@ -19,6 +19,7 @@ Table of Contents
     * [Consul](#consul)
     * [Kubernetes](#kubernetes)
     * [Linux](#linux)
+    * [Lisp](#lisp)
     * [Python](#python)
     * [Kernel](#kernel)
 * [Thx](#thx)
@@ -135,6 +136,15 @@ Linux
 [Back to TOC](#table-of-contents)
 
 
+Lisp
+-------------
+* [Linux的基础知识的讲解](http://wangfakang.github.io/linux2)
+* [Linux的I/O复用技术select,poll,epoll的讲解](http://wangfakang.github.io/linux0)
+* [Linux的进程之间的几种通信方式的讲解](http://wangfakang.github.io/linux1)
+
+[Back to TOC](#table-of-contents)
+
+
 Python
 -------------
 * [nginx惊群解析](http://wangfakang.github.io/sky0)
@@ -146,9 +156,7 @@ Python
 
 Kernel
 -------------
-* [nginx惊群解析](http://wangfakang.github.io/sky0)
-* [NGX_HTTP_UPSTREAM_DYNAMIC_MODULE模块解析](http://wangfakang.github.io/sky1)
-* [NGX_HTTP_DYUPS_MODULE模块解析](http://wangfakang.github.io/sky2)
+* [Kernel的namespace以及cgroup的简单解析](http://wangfakang.github.io/kernel0)
 
 [Back to TOC](#table-of-contents)
 
