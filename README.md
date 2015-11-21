@@ -46,6 +46,7 @@ Nginx
 * [Nginx之balancer_by_lua模块的解析](http://wangfakang.github.io/sky9)
 * [Nginx之Http2的简单解析](http://wangfakang.github.io/sky10)
 * [NGX_HTTP_UPSTREAM_CHECK_MODULE模块解析基于tengine](http://wangfakang.github.io/sky11)
+* [Lvs与Nginx的四层与七层上的负载均衡](http://wangfakang.github.io/sky12)
 
 [Back to TOC](#table-of-contents)
 
