@@ -96,6 +96,7 @@ Network
 * [Tcp三次握手四次挥手以及time_wait状态分析](http://wangfakang.github.io/net1)
 * [Https的简单解析](http://wangfakang.github.io/net2)
 * [Http2的简单解析](http://wangfakang.github.io/net3)
+* [Tcp的分段与ip的分片的解析](http://wangfakang.github.io/net4)
 
 [Back to TOC](#table-of-contents)
 
