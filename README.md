@@ -71,6 +71,7 @@ Golang
 * [Go简单学习](http://wangfakang.github.io/go0)
 * [Go中的协程以及协程之间的通信](http://wangfakang.github.io/go1)
 * [Go中调用c语言的demo](http://wangfakang.github.io/go2)
+* [Go中运行时类型的判断方法](http://wangfakang.github.io/go3)
 
 [Back to TOC](#table-of-contents)
 
