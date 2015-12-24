@@ -75,6 +75,7 @@ Golang
 * [Go中运行时类型的判断方法](http://wangfakang.github.io/go3)
 * [rslog一个使用seelog支持向rsyslog写日志的lib](http://wangfakang.github.io/go4)
 * [Go中的定时器与异常处理](http://wangfakang.github.io/go5)
+* [Go中获取运行时文件名以及行数](http://wangfakang.github.io/go6)
 
 [Back to TOC](#table-of-contents)
 
