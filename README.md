@@ -48,6 +48,7 @@ Nginx
 * [NGX_HTTP_UPSTREAM_CHECK_MODULE模块解析基于tengine](http://wangfakang.github.io/sky11)
 * [Lvs与Nginx的四层与七层上的负载均衡](http://wangfakang.github.io/sky12)
 * [Nginx的reload的过程以及对性能的影响](http://wangfakang.github.io/sky13)
+* [Nginx的多核cpu绑定问题](http://wangfakang.github.io/sky14)       
 
 [Back to TOC](#table-of-contents)
 
