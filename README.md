@@ -77,6 +77,7 @@ Golang
 * [rslog一个使用seelog支持向rsyslog写日志的lib](http://wangfakang.github.io/go4)
 * [Go中的定时器与异常处理](http://wangfakang.github.io/go5)
 * [Go中获取运行时文件名以及行数](http://wangfakang.github.io/go6)
+* [GO中多协成的管理](http://wangfakang.github.io/go7)
 
 [Back to TOC](#table-of-contents)
 
