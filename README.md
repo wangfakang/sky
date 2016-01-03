@@ -49,6 +49,7 @@ Nginx
 * [Lvs与Nginx的四层与七层上的负载均衡](http://wangfakang.github.io/sky12)
 * [Nginx的reload的过程以及对性能的影响](http://wangfakang.github.io/sky13)
 * [Nginx的多核cpu绑定问题](http://wangfakang.github.io/sky14)       
+* [Nginx的简单监控tsar和stub_status](http://wangfakang.github.io/sky15)       
 
 [Back to TOC](#table-of-contents)
 
