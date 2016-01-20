@@ -51,6 +51,7 @@ Nginx
 * [Nginx的多核cpu绑定问题](http://wangfakang.github.io/sky14)       
 * [Nginx的简单监控tsar和stub_status](http://wangfakang.github.io/sky15)       
 * [Nginx的upstream dynamic manage](http://wangfakang.github.io/sky16)       
+* [Nginx的monitor about upstream](http://wangfakang.github.io/sky17)       
 
 [Back to TOC](#table-of-contents)
 
