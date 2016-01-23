@@ -118,6 +118,7 @@ Lua
 * [Lua与C的交互](http://wangfakang.github.io/lua1)
 * [Lua的require,loadfile,dofile的区别](http://wangfakang.github.io/lua2)
 * [Lua的字符串连接操作性能的影响](http://wangfakang.github.io/lua3)
+* [Lua的一些小的陷阱](http://wangfakang.github.io/lua4)
 
 [Back to TOC](#table-of-contents)
 
