@@ -52,6 +52,7 @@ Nginx
 * [Nginx的简单监控tsar和stub_status](http://wangfakang.github.io/sky15)       
 * [Nginx的upstream dynamic manage](http://wangfakang.github.io/sky16)       
 * [Nginx的monitor about upstream](http://wangfakang.github.io/sky17)       
+* [Nginx如何进行长连接测试以及相关简单优化](http://wangfakang.github.io/sky18)       
 
 [Back to TOC](#table-of-contents)
 
