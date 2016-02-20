@@ -1,4 +1,5 @@
 Name
+
 ====
 ## 这是一个相互学习的地方, 欢迎大家多多指导　:kissing_heart:　   　
 ## It's a OpenStudy community, wellcome pull request  :kissing_heart:       
@@ -53,6 +54,7 @@ Nginx
 * [Nginx的upstream dynamic manage](http://wangfakang.github.io/sky16)       
 * [Nginx的monitor about upstream](http://wangfakang.github.io/sky17)       
 * [Nginx如何进行长连接测试以及相关简单优化](http://wangfakang.github.io/sky18)       
+* [Nginx结合Redis之pub\sub做消息订阅](http://wangfakang.github.io/sky19)       
 
 [Back to TOC](#table-of-contents)
 
