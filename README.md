@@ -55,6 +55,7 @@ Nginx
 * [Nginx的monitor about upstream](http://wangfakang.github.io/sky17)       
 * [Nginx如何进行长连接测试以及相关简单优化](http://wangfakang.github.io/sky18)       
 * [Nginx结合Redis之pub\sub做消息订阅](http://wangfakang.github.io/sky19)       
+* [Nginx之WAF(HttpGuard)简单之谈](http://wangfakang.github.io/sky20)       
 
 [Back to TOC](#table-of-contents)
 
