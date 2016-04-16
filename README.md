@@ -57,6 +57,7 @@ Nginx
 * [Nginx结合Redis之pub\sub做消息订阅](http://wangfakang.github.io/sky19)       
 * [Nginx之WAF(HttpGuard)简单之谈](http://wangfakang.github.io/sky20)       
 * [Nginx环境变量相关的坑](http://wangfakang.github.io/sky21)       
+* [如何追NGINX的core dump](http://wangfakang.github.io/sky23)       
 
 [Back to TOC](#table-of-contents)
 
