@@ -58,6 +58,7 @@ Nginx
 * [Nginx之WAF(HttpGuard)简单之谈](http://wangfakang.github.io/sky20)       
 * [Nginx环境变量相关的坑](http://wangfakang.github.io/sky21)       
 * [如何追NGINX的core dump](http://wangfakang.github.io/sky23)       
+* [Tengine之系统保护sysguard模块](http://wangfakang.github.io/sky24)       
 
 [Back to TOC](#table-of-contents)
 
