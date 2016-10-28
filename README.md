@@ -70,6 +70,7 @@ C
 * [简单的代码反应一个思维人的思维模式](http://wangfakang.github.io/c2)
 * [C函数返回值的一个陷阱](http://wangfakang.github.io/c3)
 * [不使用加减法求两个数的和](http://wangfakang.github.io/c4)
+* [模拟gdb的backtrace打印程序的调用链](http://wangfakang.github.io/c5)
 
 [Back to TOC](#table-of-contents)
 
