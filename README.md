@@ -60,6 +60,7 @@ Nginx
 * [如何追NGINX的core dump](http://wangfakang.github.io/sky23)       
 * [Tengine之系统保护sysguard模块](http://wangfakang.github.io/sky24)       
 * [Nginx之变量缓存的坑](http://wangfakang.github.io/sky25)       
+* [Nginx集群通信](http://wangfakang.github.io/sky26)       
 
 [Back to TOC](#table-of-contents)
 
